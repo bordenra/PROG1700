@@ -1,0 +1,5 @@
+#No... Neooo... NOOO... YOU WILL DIIIE!!!
+
+while (1 -ne 3) {
+    Write-Host "UNNNLIIIMUHHTEEEDDDDD POOOOOWEEEEEEAAAAAAAAAAAAAAARRRRRRR!!!!!!!!!!" -NoNewline
+}
